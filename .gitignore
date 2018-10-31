@@ -3,4 +3,11 @@ assets/*
 protected/runtime/*
 !protected/runtime/.gitignore
 protected/data/*.db
-themes/classic/views/
+protected/config/main.php
+*.zip
+*.sql
+*.sql.gz
+.idea/*
+framework/*
+uploads/*
+index.php
